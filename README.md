@@ -3,6 +3,7 @@
 Pipeline end-to-end de reportería automática de cartera crediticia para instituciones de microfinanzas, construido sobre **Microsoft Fabric**, **Spark SQL** y **Python**, con entrega automática vía **Power Automate**.
 
 ---
+## 🔗 [Ver demo en vivo](https://ronaldo-chiche.github.io/credit-portfolio-automated-reporting/sample_output/sample_report.html)
 
 ## 🎯 Problema que resuelve
 
