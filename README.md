@@ -1,4 +1,4 @@
-# 📊 Automated Daily Portfolio Report Pipeline
+# 📊 Credit Portfolio — Automated Daily Report Pipeline
 
 Pipeline end-to-end de reportería automática de cartera crediticia para instituciones de microfinanzas, construido sobre **Microsoft Fabric**, **Spark SQL** y **Python**, con entrega automática vía **Power Automate**.
 
